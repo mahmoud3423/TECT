@@ -1,0 +1,19 @@
+.wrapper{
+    min-Height:219px;
+    border:1px solid #ddd;
+    display: flex;
+    overflow-x: auto;
+ }
+.wrapper::-webkit-scrollbar{
+    width: 0;
+}
+
+
+ .wrapper .tevo{
+    width: 232px;
+    height: 0vh;
+    line-height: 386px;
+    text-align: center;
+    background-color: #ddd;
+    margin-right: 2px;
+ }
